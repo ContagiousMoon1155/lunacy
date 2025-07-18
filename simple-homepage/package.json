@@ -1,0 +1,21 @@
+{
+  "name": "simple-homepage",
+  "version": "1.0.0",
+  "description": "A simple homepage project similar to those found on Neocities.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "homepage",
+    "neocities",
+    "simple",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
